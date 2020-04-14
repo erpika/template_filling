@@ -63,6 +63,7 @@
             <ITEXT FONTSIZE="16" KERN="4" CH="Sno: %VAR_SNo%"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
             <ITEXT FONTSIZE="16" CH="To"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
