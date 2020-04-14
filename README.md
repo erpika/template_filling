@@ -1,5 +1,5 @@
 # Template Filling
- This repository is having simple soultion with which PDF files can be generated from Scribus template file.
+ This repository is having simple soultion with which PDF files can be generated from Scribus template file. Sample CSV and template file and output files are provided.
  # Steps to Follow
  1. Download Scribus(Open Source Desktop Publishing Solution) from [Here](https://www.scribus.net/)
  2. Create template and save .sla file from Scribus
